@@ -637,8 +637,6 @@ h6 {
 	  position: absolute;
       margin-bottom: 150px;
       margin-right: 0;
-      animation:moveLogo 1.8s ease forwards;
-  	animation-delay:0s;
 }
 
 @keyframes moveLogo{
